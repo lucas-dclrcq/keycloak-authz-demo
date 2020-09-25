@@ -1,0 +1,9 @@
+{
+  "policies": [
+    {
+      "name": "Only Same Store Policy",
+      "fileName": "only-same-store.js",
+      "description": "Defines that a same store user can see a store resource"
+    }
+  ]
+}
